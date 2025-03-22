@@ -15,4 +15,43 @@ This project extracts news from Google News, summarizes the content using NLP mo
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/slownal/akaike-News-Summarization-and-Text-to-Speech-Application.git  
-cd hindi-news-analysis
+cd akaike-News-Summarization-and-Text-to-Speech-Application
+# 📌 Project Setup Guide
+
+## 🚀 Getting Started
+
+Follow these steps to set up the project, install dependencies, and run the Streamlit application.
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone <repository_url>
+cd <repository_name>
+```
+
+### 2️⃣ Set Up a Virtual Environment  
+
+#### Windows (Command Prompt or PowerShell)
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+#### macOS/Linux (Terminal)
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 3️⃣ Install Dependencies  
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Run the Streamlit Application  
+```bash
+streamlit run app.py
+```
+
+✅ **The application should now be running in your browser!** 🎉
+
+
