@@ -14,5 +14,5 @@ This project extracts news from Google News, summarizes the content using NLP mo
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/hindi-news-analysis.git  
+git clone https://github.com/slownal/akaike.git  
 cd hindi-news-analysis
